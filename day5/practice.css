@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+.main{
+background-image: url(https://th.bing.com/th/id/OIP.YKj7OrGcqWLugJN6YtlGawHaEK?rs=1&pid=ImgDetMain);
+background-repeat: no-repeat;
+background-size: cover;
+height: 120vh;
+}
+.bar1{
+    background-color: black;
+    padding: 10px;
+    font-size: 20px;
+}
+.bar1 a{
+    font-size: 20px;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+}
+.bar1 a:hover{
+    background-color: aqua;
+}
+.bar2{
+   width: 70px;
+   height: 100vh;
+    background-color: black;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.bar2 a{
+    font-size: 20px;
+    float: left;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    width: 50px;}
+
+.bar2 a:hover{
+    background-color: aqua;
+}
+video{
+    background: none;
+    margin-bottom: 100vh;
+    margin-left: 80vh;
+    margin-top: -90vh;
+    
+}

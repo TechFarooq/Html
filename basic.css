@@ -1,0 +1,31 @@
+body{
+    background-color: chartreuse;
+}
+
+
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 35px;
+    background-color: aqua;
+
+}
+
+
+p{
+    
+    font-size: 20px;
+    color: brown;
+}
+
+a{
+    font-size: 50px;
+    color: black;
+    text-decoration: none;
+    
+}
+
+img{
+    height: 50vh;
+    width: 70vh;
+}

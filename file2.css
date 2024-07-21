@@ -1,0 +1,26 @@
+.main{
+    height: 70vh;
+    width:40vh ;
+    background-color: rebeccapurple;
+    border: 3px solid black;
+    margin-left: 70vh;
+    margin-top: 20vh;
+    text-align: center;
+}
+.inputdata label{
+    font-size: 25px;
+    margin: 30px;
+    font-family: fantasy;
+    color: yellow;
+
+}
+.inputdata input{
+    margin: 30px;
+    padding: 10px;
+}
+.btn button{
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: blue;
+}
